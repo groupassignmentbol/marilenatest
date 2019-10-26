@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "661979532944",
+    "firebase_url": "https://nanochat-ffe57.firebaseio.com",
+    "project_id": "nanochat-ffe57",
+    "storage_bucket": "nanochat-ffe57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661979532944:android:e847b1c70b04a8625ed215",
+        "android_client_info": {
+          "package_name": "com.example.dailyshoppinglist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661979532944-tfl3t8jc0ca0kfsl51rm9k51jdtf0r5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnmOZvLHv9INKNCr5u_w3-dOqW9Q87G2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661979532944-tfl3t8jc0ca0kfsl51rm9k51jdtf0r5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
